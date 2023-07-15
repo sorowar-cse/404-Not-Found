@@ -57,3 +57,46 @@ body {
     text-decoration: none;
     text-transform: uppercase;
 }
+
+footer p {
+    padding-top: 20px;
+    color: #BDBDBD;
+text-align: center;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 500;
+}
+
+footer a {
+    color: #BDBDBD;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+text-decoration-line: underline;
+}
+
+/* Responsive Design for Mobile Devices */
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .content-left {
+        width: 100%;
+    }
+
+    .content-right {
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .content-right .content-title {
+        font-size: 48px;
+    }
+
+    .content-text {
+        width: 100%;
+    }
+}
