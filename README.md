@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://sorowar-cse.github.io/404-Not-Found/">
+    <a href="https://devchallenges-four-0-four-not-found.netlify.app/">
       Demo
     </a>
     <span> | </span>
